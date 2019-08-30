@@ -8,4 +8,4 @@
 4) Enjoy!!!
 ```
 * Tested on Vysor v2.1.7_0
-![title Cracked Vysor v2.1.7_0](https://raw.githubusercontent.com/alipet1/Vysor-Crack/master/Capture.PNG)
+![title Cracked Vysor v2.1.7_0](https://github.com/alipet1/Vysor-Crack/blob/master/Capture.png)
